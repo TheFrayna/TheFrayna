@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![video](http://radis.viarra.fr/benji_samat/2022-01-30_13-15-01_UTC.mp4)(http://radis.viarra.fr/benji_samat/2022-01-30_13-15-01_UTC.mp4)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
 
 - 👋 Hi, I’m @TheFrayna
 - 👀 I’m interested in ...
