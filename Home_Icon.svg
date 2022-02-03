@@ -6,9 +6,7 @@ xmlns:svg="http://www.w3.org/2000/svg"
 xmlns="http://www.w3.org/2000/svg"
 width="512"   height="512"
 version="1.1"   id="svg2">
-	<script>
-		console.log('test')
-	</script>
+
 	<g transform="translate(0,448)">
 		<path
 		style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
