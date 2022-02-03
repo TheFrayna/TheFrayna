@@ -1,4 +1,4 @@
-![Alt text](./SVG_Logo.svg)
+![Alt text](./Home_Icon.svg)
 
 - 👋 Hi, I’m @TheFrayna
 - 👀 I’m interested in ...
