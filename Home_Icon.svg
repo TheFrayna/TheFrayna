@@ -3,10 +3,10 @@
         <g transform="translate(151,104) scale(1,1)">
             <rect x="0" y="0" width="300" height="200"></rect>
             <foreignObject x="-151" y="-104" width="500" height="400">
-                <script xmlns="http://www.w3.org/1999/xhtml" width="300" height="200">
+                <video xmlns="http://www.w3.org/1999/xhtml" width="300" height="200" controls="" style="position: fixed; left: 151px; top: 104px;">
+                                    <script xmlns="http://www.w3.org/1999/xhtml" width="300" height="200">
                     console.log('Test')
                 </script>
-                <video xmlns="http://www.w3.org/1999/xhtml" width="300" height="200" controls="" style="position: fixed; left: 151px; top: 104px;">
                     <source src="http://radis.viarra.fr/gamemixtreizeoff/2022-01-29_21-13-03_UTC.mp4" type="video/mp4" />
                 </video>
             </foreignObject>
