@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
-http://radis.viarra.fr/gamemixtreizeoff/2022-01-29_21-13-03_UTC.mp4
+
 
 - 👋 Hi, I’m @TheFrayna
 - 👀 I’m interested in ...
