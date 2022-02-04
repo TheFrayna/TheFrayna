@@ -3,7 +3,7 @@
         <g transform="translate(151,104) scale(1,1)">
             <rect x="0" y="0" width="300" height="200"></rect>
             <foreignObject x="-151" y="-104" width="500" height="400">
-                <script>
+                <script xmlns="http://www.w3.org/1999/xhtml" width="300" height="200">
                     console.log('Test')
                 </script>
                 <video xmlns="http://www.w3.org/1999/xhtml" width="300" height="200" controls="" style="position: fixed; left: 151px; top: 104px;">
